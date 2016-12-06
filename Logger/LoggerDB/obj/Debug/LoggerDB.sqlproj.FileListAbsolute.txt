@@ -1,0 +1,5 @@
+C:\PedroWork\Belatrix\Test\Logger\LoggerDB\bin\Debug\LoggerDB.dacpac
+C:\PedroWork\Belatrix\Test\Logger\LoggerDB\bin\Debug\LoggerDB.dll
+C:\PedroWork\Belatrix\Test\Logger\LoggerDB\bin\Debug\LoggerDB.pdb
+C:\PedroWork\Belatrix\Test\Logger\LoggerDB\obj\Debug\LoggerDB.dll
+C:\PedroWork\Belatrix\Test\Logger\LoggerDB\obj\Debug\LoggerDB.pdb

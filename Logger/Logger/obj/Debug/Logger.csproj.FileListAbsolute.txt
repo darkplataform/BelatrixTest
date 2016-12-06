@@ -1,0 +1,6 @@
+C:\PedroWork\Belatrix\Test\Logger\Logger\bin\Debug\Logger.exe.config
+C:\PedroWork\Belatrix\Test\Logger\Logger\bin\Debug\Logger.exe
+C:\PedroWork\Belatrix\Test\Logger\Logger\bin\Debug\Logger.pdb
+C:\PedroWork\Belatrix\Test\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\PedroWork\Belatrix\Test\Logger\Logger\obj\Debug\Logger.exe
+C:\PedroWork\Belatrix\Test\Logger\Logger\obj\Debug\Logger.pdb
